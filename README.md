@@ -1,2 +1,2 @@
 # Modelagem-de-E-commerce
-A refinacao
+A forma de pensar na parte de realizar o pagamento é que, como existe varias formas de pagamento entao foi criado uma tabela para o pagamento ligado a forma de pagamento que la contem as variadas formas de pagamento que se deseja. A parte de ser pessoa juridica e pessoa fisica, foi que elas possuem um cadastro que identificam o mesmo, e eles sao unique, que so deve ser apenas uma dessas opcoes podem ser escolhidas. Já a entrega esta ligado ao pedido que que sera realizado.
